@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Josh Bodah"]
   spec.email         = ["jb3689@yahoo.com"]
 
-  spec.summary       = %q{a refactoring tool for Ruby}
+  spec.summary       = %q{an automated refactoring tool for Ruby}
   spec.homepage      = "https://github.com/jbodah/rrefactor"
   spec.license       = "MIT"
 
